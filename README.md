@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on Rayere Pharmaceutical
 - 🌱 I’m currently learning more about Backend Architectures, Frontend Developement and German lenguage 🥨
-- 😄 Pronouns: he / him
+- 😄 Pronouns: he / him / er
 
 ## Some Statistics About Me
 ![Abhinav's github stats](https://github-readme-stats.vercel.app/api?username=jorgeAngelus&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)<br>
